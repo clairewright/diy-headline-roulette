@@ -3,12 +3,12 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = 'venf2i1q2a2j82nj';
     // Either provide full API query here or include options below
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = '';
+    var keywords = 'tea room university';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
     // Newspaper id numbers -- separate multiple values with spaces, eg:
